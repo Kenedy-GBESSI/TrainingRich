@@ -1,0 +1,18 @@
+:root{
+  --primary: #0162BB;
+  --white:#FFFFFF;
+  --message: #FFF8EB;
+  --message-text: #FF7A00;
+  --few-dask:#F5F5F5;
+  --few-dask-text: #555555;
+}
+
+
+*,
+*::before,
+*::after,body {
+  box-sizing: border-box;
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
